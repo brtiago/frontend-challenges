@@ -99,6 +99,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | pt   | :brazil: [Woop Sicredi](https://www.woopsicredi.com/)               | Angular, React, Stencil                       | [Code →](https://github.com/WoopSicredi/jobs/issues/6)                                  | -                                                                               |
 | en   | :us: [Yodlr](http://getyodlr.com/)                                  | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/yodlr/frontend-code-challenge)                              | -                                                                               |
 | en   | :us: [ZEPL](http://www.zepl.com/)                                   | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/ZEPL/front-end-challenge)                                   | -                                                                               |
+| pt   | :brazil: [Orange Labs](https://orangelabs.com.br/)                  | HTML, CSS & JS, React                                         | [Code →](https://github.com/orangebr/desafio-front-pigz)                                | [Jobs](https://www.linkedin.com/company/pigz/jobs/)                                                                                |
 
 ## License
 
